@@ -9,7 +9,7 @@
 
 Passionate about building **scalable mobile apps**, optimizing user experiences, and exploring **cutting-edge mobile technologies**. I thrive on turning complex problems into elegant, high-performance mobile solutions.
 
-- 🔭 I’m currently enhancing my skills in **Jetpack Compose** for Android and exploring **React Native's new architecture (JSI & Fabric)**.
+- 🔭 I’m currently enhancing my skills in **Jetpack Compose** for Android.
 - 🌱 I’m focused on mastering mobile architecture patterns (MVVM, MVC) and performance optimization for large-scale apps.
 - 💬 Ask me about anything **Android (Kotlin)**, **React Native**, or mobile app performance.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/alkesh-chamnani-2b221259/)
