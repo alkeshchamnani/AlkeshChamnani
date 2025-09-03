@@ -39,7 +39,6 @@ Passionate about building **scalable mobile apps**, optimizing user experiences,
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 📊 My GitHub Contribution Graph
 
-📈 **My GitHub Contribution Graph**
 ![Alkesh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlkeshChamnani&theme=react-dark&hide_border=false)
