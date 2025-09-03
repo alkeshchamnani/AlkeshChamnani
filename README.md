@@ -19,11 +19,15 @@ Passionate about building **scalable mobile apps**, optimizing user experiences,
 
 ## 📊 GitHub Stats
 
-![Alkesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlkeshChamnani&show_icons=true&theme=tokyonight&count_private=true)
+### 📈 My GitHub Contribution Graph
+![Alkesh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlkeshChamnani&theme=react-dark&hide_border=true)
 
+### 📈 Contribution to my repositories
+![Alkesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlkeshChamnani&show_icons=true&theme=tokyonight)
+
+### 📈 Top Languages used in my repositories
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlkeshChamnani&layout=compact&theme=tokyonight)
 
----
 
 ## 🌟 Featured Projects
 
